@@ -9,8 +9,8 @@ body {
     height: 150px;
     background: url("images/tank_image.png");
     position: absolute;
-    top: 40vh;
-    left: 70vh;
+    top: 80vh;
+    left: 50vh;
 }
 .right {
     transform: rotate(90deg);
